@@ -2,7 +2,7 @@
   (:require [java-time.api :as t]))
 
 (defn now
-  "Returns the current datetime v0.0.4"
+  "Returns the current datetime v0.0.5"
   []
   (t/instant))
 
