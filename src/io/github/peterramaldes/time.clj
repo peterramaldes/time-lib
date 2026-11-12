@@ -1,4 +1,4 @@
-(ns io.github.peterramalades/time-lib
+(ns io.github.peterramaldes.time
   (:require [java-time.api :as t]))
 
 (defn now
